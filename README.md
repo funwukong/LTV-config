@@ -21,11 +21,11 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 
 ## API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-05-10 04:38 CST）
+## API 状态（最近更新：2026-05-10 10:26 CST）
 
 - 总 API 数量：77
-- 成功 API 数量：66
-- 失败 API 数量：11
+- 成功 API 数量：65
+- 失败 API 数量：12
 - 平均可用率：85.1%
 - 完美可用率（100%）：35 个
 - 高可用率（80%-99%）：31 个
@@ -95,11 +95,11 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | 🎬红牛资源 | https://www.hongniuzy2.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | 🔞奥斯卡 | https://aosikazy.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | 🔞百万资源 | https://api.bwzyz.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
-| ✅ | 🔞鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | 🎬光速资源 | https://api.guangsuapi.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
 | ✅ | 🎬金鹰资源 | https://jyzyapi.com/provide/vod/from/jinyingyun/at/json | 95 | 5 | 95.0% | 0 |
-| 🚨 | 🔞精品资源 | https://www.jingpinx.com/api.php/provide/vod | 95 | 5 | 95.0% | 3 |
+| ❌ | 🔞鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 95 | 5 | 95.0% | 1 |
 | ✅ | 🎬虎牙资源 | https://www.huyaapi.com/api.php/provide/vod/at/json | 94 | 6 | 94.0% | 0 |
+| 🚨 | 🔞精品资源 | https://www.jingpinx.com/api.php/provide/vod | 94 | 6 | 94.0% | 4 |
 | ✅ | 🔞丝袜资源 | https://siwazyw.tv/api.php/provide/vod/at/json | 93 | 7 | 93.0% | 0 |
 | ✅ | 🎬茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 84 | 16 | 84.0% | 0 |
 | ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 83 | 17 | 83.0% | 0 |
