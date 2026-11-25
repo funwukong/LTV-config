@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 
 ## API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-11-25 11:17 CST）
+## API 状态（最近更新：2026-11-25 21:47 CST）
 
 - 总 API 数量：77
 - 成功 API 数量：62
@@ -95,11 +95,11 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | 🔞辣椒资源 | https://apilj.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🎬360资源 | https://360zy.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | 🔞奥斯卡 | https://aosikazy.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
+| ✅ | 🎬爱奇艺 | https://iqiyizyapi.com/api.php/provide/vod | 90 | 10 | 90.0% | 0 |
 | ✅ | 🔞souavZY | https://api.souavzy.vip/api.php/provide/vod | 90 | 10 | 90.0% | 0 |
-| ✅ | 🎬爱奇艺 | https://iqiyizyapi.com/api.php/provide/vod | 89 | 11 | 89.0% | 0 |
 | ✅ | 🎬茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 85 | 15 | 85.0% | 0 |
-| ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 84 | 16 | 84.0% | 0 |
-| 🚨 | 🎬豆瓣资源 | https://caiji.dbzy5.com/api.php/provide/vod | 19 | 81 | 19.0% | 81 |
+| ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 85 | 15 | 85.0% | 0 |
+| 🚨 | 🎬豆瓣资源 | https://caiji.dbzy5.com/api.php/provide/vod | 18 | 82 | 18.0% | 82 |
 | 🚨 | 🎬U酷88 | https://dl.hafrey.dpdns.org/?url=https://api.ukuapi88.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬U酷资源 | https://dl.hafrey.dpdns.org/?url=https://api.ukuapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬如意资源 | https://dl.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
